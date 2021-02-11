@@ -101,7 +101,7 @@ def detect(image):
 
 def get_all_file_paths(directory): 
 
-	# initializing empty file paths list 
+	# initializing empty file paths list
 	file_paths = [] 
 
 	# crawling through directory and subdirectories 
